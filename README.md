@@ -12,6 +12,7 @@ The following container comes with pre-installed tools required to complete the 
 - XGBoost
 - Matplotlib
 - Seaborn
+- Graphviz
 
 [![](https://images.microbadger.com/badges/image/parrotprediction/course-xgboost.svg)](https://microbadger.com/images/parrotprediction/course-xgboost "Get your own image badge on microbadger.com")
 
